@@ -1301,6 +1301,7 @@ footer {
   }
   .navbar.active {
     display: block;
+    z-index: 999;
   }
   nav ul {
     flex-direction: column;
