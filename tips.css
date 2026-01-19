@@ -185,8 +185,8 @@ nav ul li a:hover {
     font-size: 14px;
    
 }
-.review div img{
-    height: 28px;
+   .review div img {
+    height: auto;
 }
 
 .review .comment {
@@ -305,6 +305,10 @@ nav ul li a {
 
                                        /* max width 992px */
 @media (max-width: 992px) {
+/* page data */
+     .review div img {
+    height: auto;
+}
 
 /* footer */
 
@@ -406,6 +410,9 @@ nav ul li a {
 .box1 {
     width: 90%;
 }
+   .review div img {
+    height: auto;
+}
 
 
 /* footer */
@@ -427,7 +434,7 @@ nav ul li a {
     padding-left: 20px;
   }
   .footer-color {
-    height: 1376px;
+     height: 1427px;
     max-width: 768px;
     width: 100%;
   }
@@ -441,6 +448,10 @@ nav ul li a {
 
   .footer-detail img {
     height: 40px;
+    margin-bottom: 12px;
+  }
+  .footer2 h3{
+    margin-bottom: 12px;
   }
 
   .body-detail {
@@ -493,6 +504,13 @@ nav ul li a {
     .box2 {
         width: 90%S;
     }
+    .review div img {
+    height: auto;
+}
+
+.heading {
+      padding: 44px 0px;
+}
 
   /* footer */
   footer p {

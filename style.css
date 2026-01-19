@@ -1405,7 +1405,7 @@ footer {
     padding-left: 20px;
   }
   .footer-color {
-    height: 1376px;
+    height: 1427px;
     max-width: 768px;
     width: 100%;
   }
@@ -1417,8 +1417,12 @@ footer {
     padding-bottom: 5px;
   }
 
-  .footer-detail img {
+ .footer-detail img {
     height: 40px;
+    margin-bottom: 12px;
+  }
+  .footer2 h3{
+    margin-bottom: 12px;
   }
 
   .body-detail {

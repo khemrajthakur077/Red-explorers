@@ -450,7 +450,7 @@ form {
     padding-left: 20px;
   }
   .footer-color {
-    height: 1376px;
+    height: 1427px;
     max-width: 768px;
     width: 100%;
   }
@@ -464,6 +464,10 @@ form {
 
   .footer-detail img {
     height: 40px;
+    margin-bottom: 12px;
+  }
+  .footer2 h3{
+    margin-bottom: 12px;
   }
 
   .body-detail {
@@ -503,6 +507,9 @@ form {
     }
 
   /* page data */
+  .form-h3 {
+    padding: 0px 20px;
+  }
  
 /* subscribe bar */
   .search-bar button {
@@ -517,6 +524,7 @@ form {
   }
    .search-bar {
     margin-top: 51px;
+            gap: 13px;
   }
 .multi-photos {
       margin-top: 37px;
